@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 
-class Day1_TrebuchetKtTest {
+class Day1TrebuchetKtTest {
 
     @Test
     fun `1abc2 should return 12`() =
